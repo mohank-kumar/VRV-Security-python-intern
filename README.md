@@ -1,12 +1,12 @@
 # VRV-Security-python-intern
 
-download zip file from this repo 
+Download zip file from this repo 
 
-extract zip file 
+Extract zip file 
 
-open file in vs code 
+Open file in vs code 
 
-run "python manage.py runserver" in terminal
+Run "python manage.py runserver" in terminal
 
 ![Screenshot (48)](https://github.com/user-attachments/assets/5f8c8b59-4c69-4fb4-ba32-563a79d30bca)
 
